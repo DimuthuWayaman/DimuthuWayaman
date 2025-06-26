@@ -1,1 +1,1 @@
-# 👋 Hi there, I'm Dimuthu Wayaman
+# <center>👋 Hi there, I'm Dimuthu Wayaman</center>
