@@ -1,1 +1,1 @@
-# 👋 Hi there, I'm Dinesh Wayaman
+# 👋 Hi there, I'm Dimuthu Wayaman
