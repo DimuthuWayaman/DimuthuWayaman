@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M Dimuthu Wayaman! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝙸'𝙼 𝙳𝚒𝚖𝚞𝚝𝚑𝚞 𝚆𝚊𝚢𝚊𝚖𝚊𝚗! 
 *(Designer / Developer)*
 <br /> 
 
@@ -23,7 +23,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=DimuthuWayaman&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="DimuthuWayaman" style="padding-right:20px;" />
 </p>
 
 ---
@@ -47,9 +47,9 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Beggar Card Game: Launched a real-time multiplayer game with voice chat & custom roles</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥 Patta Wadan App: Created a Sinhala-English meme app with daily jokes and motivation</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">🔥O-Level Maths App: Created an interactive study tool with daily practice questions, tutorials, and tips for mastering O-Level Mathematics</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.globevik.beggar&pcampaignid=web_share">🔥Beggar Card Game: Launched a real-time multiplayer game with voice chat & custom roles</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.wcreation.vadan&pcampaignid=web_share">🔥 Patta Wadan App: Created a Sinhala-English meme app with daily jokes and motivation</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.wcreation.ordinarylevel&pcampaignid=web_share">🔥O-Level Maths App: Created an interactive study tool with daily practice questions, tutorials, and tips for mastering O-Level Mathematics</a></li>
 </ul>
 <br />
 <br />
