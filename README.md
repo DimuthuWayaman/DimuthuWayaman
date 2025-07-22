@@ -57,7 +57,7 @@
 <br />
 
 
-<!--Trophies Section-->   
+<!--Trophies Section  
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/DimuthuWayaman">
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<br />
+<br />--> 
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
