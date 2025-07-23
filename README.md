@@ -76,7 +76,7 @@
 
 <table width="100%">
   <tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/DimuthuWayaman">
@@ -84,15 +84,14 @@
         </a>
       </p>
 </td>
-    <!--
-    <td width="50%">
+   <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/DimuthuWayaman">
           <img align="center" src="https://streak-stats.demolab.com?user=DimuthuWayaman&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
-    </td>-->
+    </td>
   </tr>
   <tr>
     <td width="50%">
