@@ -1,365 +1,130 @@
-<!--Banner-->
-![Dimuthu Wayaman Banner Image](./banner.png)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝙸'𝙼 𝙳𝚒𝚖𝚞𝚝𝚑𝚞 𝚆𝚊𝚢𝚊𝚖𝚊𝚗! 
-*(Designer / Developer)*
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">I’m a Flutter Developer and AI Enthusiast with a strong passion for mobile app development, Riverpod, Clean Architecture, Firebase, JavaScript, and creative AI integration in education, entertainment, and smart tools. </p>
-
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Designer and Mobile App Developer at [Globevik](https://globevik.com/)
-- 🏙 Developer of [Beggar](https://playbeggar.online/), a multiplayer card game with voice chat and custom rules.
-- ❤ Contributing to Open Source.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DimuthuWayaman&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="DimuthuWayaman" style="padding-right:20px;" />
-</p>
-
----
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in AI integration and building intelligent features into Flutter apps.</li>
-  <li>Experimenting with WebRTC, Socket communication, and cloud deployments.</li>
-  <li>Exploring Flutter Riverpod and Clean Architecture for scalable mobile development.</li>
-</ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://play.google.com/store/apps/details?id=com.globevik.beggar&pcampaignid=web_share">🔥Beggar Card Game: Launched a real-time multiplayer game with voice chat & custom roles</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.wcreation.vadan&pcampaignid=web_share">🔥 Patta Wadan App: Created a Sinhala-English meme app with daily jokes and motivation</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.wcreation.ordinarylevel&pcampaignid=web_share">🔥O-Level Maths App: Created an interactive study tool with daily practice questions, tutorials, and tips for mastering O-Level Mathematics</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
-
-<!--Trophies Section  
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/DimuthuWayaman">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DimuthuWayaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DimuthuWayaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DimuthuWayaman&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
-<br />--> 
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DimuthuWayaman">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuWayaman&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-</td>
-   <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DimuthuWayaman">
-          <img align="center" src="https://streak-stats.demolab.com?user=DimuthuWayaman&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DimuthuWayaman/have_to_do">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=DimuthuWayaman&repo=have_to_do&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DimuthuWayaman">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=DimuthuWayaman&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DimuthuWayaman&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
----
+<img src="./banner.svg" width="100%"/>
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<a href="https://dimuthuwayaman.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Firebase;Mobile+App+Developer+%40+Globevik;Working+on+Beggar+Multiplayer+Card+Game;Published+on+pub.dev" alt="Typing SVG" /></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=To%20bear%20trials%20with%20a%20calm%20mind%20robs%20misfortune%20of%20its%20strength%20and%20burden.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:dimuthuwayaman@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="dimuthuwayaman@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/DimuthuWayaman" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/dimuthuwayaman" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.github.com/DimuthuWayaman" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/dimuthuwayaman/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-</div>
 <br/>
 
-<!--Buy me a coffee-->
-<!--div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div-->
+![Flutter Developer](https://img.shields.io/badge/-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Mobile App Dev](https://img.shields.io/badge/-Mobile%20App%20Developer%20%40%20Globevik-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)
 
+</div>
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<br/>
 
+## About Me
+
+I'm Dimuthu, a Flutter developer based in Sri Lanka. I work as a Mobile Application Developer at **[Globevik](https://globevik.com)**, a software agency building mobile apps and developer tools for clients around the world.
+
+- 🚀 Working on **Fleetrix** (mileage tracking) and **Restro One** (real-time restaurant management) at Globevik
+- 🎯 Focused on Flutter, Firebase, and clean, scalable app architecture
+- 🌱 Exploring AI-assisted dev workflows, WebRTC, and real-time systems
+- 📦 Published **agent_ui_kit_providers** on pub.dev — 160/160 pub points
+- 🇱🇰 Also build tools for the Sri Lankan market and Sinhala-speaking audiences
+- 📫 Reach me at **[dimuthuwayaman.com](https://dimuthuwayaman.com)**
+
+<br/>
+
+## Products I Work On at Globevik
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🃏 Beggar Card Game
+Real-time multiplayer card game with voice chat and custom rules, built for [playbeggar.online](https://playbeggar.online/).
+
+**Stack:** Flutter · WebRTC · Socket.IO
+
+[Learn more →](https://playbeggar.online/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Restro One
+Real-time restaurant management system — live, screen-based order flow from kitchen to counter, built for speed.
+
+**Stack:** Flutter · Firebase
+
+[Learn more →](https://globevik.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🃏 **[Beggar Card Game](https://playbeggar.online/)** | Real-time multiplayer card game with voice chat and custom rules | Flutter · WebRTC · Socket.IO |
+| 😄 **[Patta Wadan](https://play.google.com/store/apps/details?id=com.wcreation.vadan)** | Sinhala-English meme & motivation app with daily content | Flutter |
+| 📐 **[O-Level Maths](https://play.google.com/store/apps/details?id=com.wcreation.ordinarylevel)** | Interactive study app with daily practice and tutorials | Flutter |
+| 🌐 **[Portfolio](https://dimuthuwayaman.com)** | Cinematic personal portfolio site | Next.js 14 · GSAP · TypeScript · Tailwind |
+
+<br/>
+
+## Published Packages
+
+<div align="center">
+
+[![pub package](https://img.shields.io/pub/v/agent_ui_kit_providers.svg?style=for-the-badge&color=0175C2&logo=dart&logoColor=white)](https://pub.dev/packages/agent_ui_kit_providers)
+[![pub points](https://img.shields.io/pub/points/agent_ui_kit_providers?style=for-the-badge&color=00C853&logo=dart&logoColor=white)](https://pub.dev/packages/agent_ui_kit_providers/score)
+[![pub likes](https://img.shields.io/pub/likes/agent_ui_kit_providers?style=for-the-badge&color=E91E63&logo=dart&logoColor=white)](https://pub.dev/packages/agent_ui_kit_providers)
+
+</div>
+
+### 🤖 agent_ui_kit_providers
+Themeable Flutter widgets for AI chat — streaming markdown bubbles, tool-call cards, a composer, and optional OpenRouter/Gemini providers. **160/160 pub points**, MIT licensed, and supports all 6 platforms (Android, iOS, Web, Windows, macOS, Linux) with WASM support.
+
+**Stack:** Flutter · Dart
+
+[pub.dev →](https://pub.dev/packages/agent_ui_kit_providers) · [GitHub →](https://github.com/DimuthuWayaman/Agent-UI-Kit-Providers)
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,ts,js,nodejs,tailwind,git,github,androidstudio,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="GitHub metrics" />
+
+<img src="https://streak-stats.demolab.com/?user=DimuthuWayaman&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dimuthuwayaman.com)
+[![Globevik](https://img.shields.io/badge/Globevik-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://globevik.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimuthuwayaman/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DimuthuWayaman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimuthuwayaman)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DimuthuWayaman&color=6C5CE7&style=flat-square&label=Profile+Views)
+
+<img src="./footer.svg" width="100%"/>
+
+</div>
