@@ -95,15 +95,19 @@ Themeable Flutter widgets for AI chat — streaming markdown bubbles, tool-call 
 
 <br/>
 
-## GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="GitHub metrics" />
-
-<img src="https://streak-stats.demolab.com/?user=DimuthuWayaman&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+![Followers](https://img.shields.io/github/followers/DimuthuWayaman?style=for-the-badge&color=6C5CE7&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDimuthuWayaman&label=Repos&query=%24.public_repos&style=for-the-badge&color=00C853&logo=github&logoColor=white)
 
 </div>
+
+- 🃏 Built and shipped **Beggar Card Game** — real-time multiplayer with voice chat and custom rules
+- 🍽️ Contribute to **Restro One** at Globevik — a live, screen-based restaurant order-flow system
+- 📦 Maintain **agent_ui_kit_providers** on pub.dev with a perfect 160/160 pub score
+- 🌐 Designed and built a cinematic Next.js portfolio at [dimuthuwayaman.com](https://dimuthuwayaman.com)
 
 <br/>
 
